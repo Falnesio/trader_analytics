@@ -4,4 +4,4 @@ Foi necessário programação em Python utilizando framework Django para desenvo
 
 PostgreSQL para armazenamento dos dados e o Power BI para tratamento e visualização dos dados em dashboard.
 
-Pra aprender mais sobre, ainda vou tentar sofisticar o dashboard adicionando algumas informações que podem ser úteis, melhorar o visual dos paineis e adicionar novos paineis por exemplo de desempenho no mercado de derivativos (opções).
+Pra aprender mais sobre vou tentar sofisticar ainda mais o dashboard adicionando algumas informações que podem ser úteis, melhorar o visual dos paineis e adicionar novos paineis, por exemplo de desempenho no mercado de derivativos (opções).
